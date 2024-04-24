@@ -1,0 +1,1 @@
+folder from where images are uploaded and downloaded
